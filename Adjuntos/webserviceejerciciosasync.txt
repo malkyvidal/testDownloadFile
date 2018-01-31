@@ -1,0 +1,2 @@
+http://www.sbs.gob.pe/sbs-metodos/WS_TIP_CAM_OYD/WS_TIP_CAM_OYD.asmx
+https://servicios.bcn.gob.ni/Tc_Servicio/ServicioTC.asmx
